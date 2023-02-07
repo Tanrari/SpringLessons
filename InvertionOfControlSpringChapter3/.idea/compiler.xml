@@ -6,17 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ChapterTwoXMLConfigSpring" />
-        <module name="AnnotationHelloInSpring" />
         <module name="InvertionOfControlSpringChapter3" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="AnnotationHelloInSpring" target="1.5" />
-      <module name="ChapterTwoXMLConfigSpring" target="1.5" />
-      <module name="InvertionOfControlChapter4" target="1.5" />
-      <module name="InvertionOfControlKindsChapterThree" target="1.5" />
-      <module name="InvertionOfControlSpringChapter3" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
